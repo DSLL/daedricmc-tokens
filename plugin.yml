@@ -1,0 +1,10 @@
+name: DaedricTokens
+author: giantcrack
+version: 0.1
+main: me.giantcrack.dt.Main
+
+commands:
+    dt:
+        dtc:
+	    tokens:
+
